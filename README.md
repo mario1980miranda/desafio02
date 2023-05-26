@@ -1,5 +1,5 @@
 # desafio02
-Criar um projeto no Spring Boot com Java e banco de dados H2, e implementar o modelo conceitual conforme especificação a seguir.
+Criar um projeto no Spring Boot com Java e banco de dados H2, e implementar o modelo conceitual conforme especificação a seguir :
 
 ```mermaid
 erDiagram
